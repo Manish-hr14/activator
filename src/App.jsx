@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Navbar from "./components/Logo";
 import Notification from "./components/Notification";
 import Streak from "./components/Streak";
-import User from "./components/User";
+import Board from "./components/Leaderboard";
 
 function Share() {
   return (
@@ -30,7 +30,7 @@ function Leaderboard() {
   return (
     <>
       <Navbar />
- 
+      <Board/>
       <Notification />
     </>
   );

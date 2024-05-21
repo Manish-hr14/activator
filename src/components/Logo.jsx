@@ -23,7 +23,7 @@ function FdaoLogo() {
         className="w-14 h-14" // Set standard logo dimensions
       />
       <span className="text-xl ml-2" style={{ color: '#D9811E' }}>
-        Freelancers DAO
+       Activator
       </span>
       <button
         className="absolute top-0 right-0 mt-2 mr-2 p-2 bg-orange-500 text-white rounded hover:bg-orange-600"
